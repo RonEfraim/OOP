@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAKEAAgCAAAAEAAAAAABQAAA=</HashCode>
+      <FileName>GameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager" Collapsed="true">
+    <Position X="27.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAACAAABAAAAAAAAgAAAAA=</HashCode>
+      <FileName>levelManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resources" Collapsed="true">
+    <Position X="25.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAQAIAABAQAAAAAAAAAEwACAAAAIBEAiACABBAA=</HashCode>
+      <FileName>Resources.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="11.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAKAAAAKAAAACAAAICAIAiACAAAAACAAAAABEAAAA=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ship" Collapsed="true">
+    <Position X="21.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAgAAEAAAAABKAABIAAQACARWAAAAAAAAAAQAoAAA=</HashCode>
+      <FileName>Ship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weaponable" Collapsed="true">
+    <Position X="18" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAAAAAAAAAAAAAEAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Weaponable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtraLife" Collapsed="true">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtraLife.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUp" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABAAAAAACAAAAAABACEAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShieldPowerUp" Collapsed="true">
+    <Position X="1.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAABAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShieldPowerUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaveBulletPowerUp" Collapsed="true">
+    <Position X="3.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaveBulletPowerUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkACAAIAAAAAAAAAAAAAAACAAIAAIAAAAAAAAQAAAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultBullet" Collapsed="true">
+    <Position X="8" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACgAAAAAAAAAAAAABgAAAAAAAAAAAA=</HashCode>
+      <FileName>DefaultBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleEnemyBullet" Collapsed="true">
+    <Position X="10.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAACAAAAAAAAAAAAAABAAAAAAAAAAgAA=</HashCode>
+      <FileName>SimpleEnemyBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaveBullet" Collapsed="true">
+    <Position X="12.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAARAAAAAAAAIAAAA=</HashCode>
+      <FileName>WaveBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossEnemy" Collapsed="true">
+    <Position X="19.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAIAACAAAIAAAAEEEIgABAAAAAAAAAIAAA=</HashCode>
+      <FileName>BossEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="17" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAEgQEAAAICAAAABIAAAACAAAAAQAACAAgAGIoIAA=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleEnemy" Collapsed="true">
+    <Position X="14.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAACAAAAAAAAAAAIAABCCAAAAAAAIAAA=</HashCode>
+      <FileName>SimpleEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartEnemy" Collapsed="true">
+    <Position X="17" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAACAAAAAAAAAAAIAABAAAAABAAAIAAA=</HashCode>
+      <FileName>SmartEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUpFactory" Collapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAABBAAAAEAA=</HashCode>
+      <FileName>PowerUpFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyFactory" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAQAAAAAAAAAAAQAAAAAAAAAAQAAABAAAAAAAA=</HashCode>
+      <FileName>EnemyFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletFactory" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAQAAAA=</HashCode>
+      <FileName>BulletFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAABAEAAA=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayingState" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKQAAAgAAAAIBBSEoJIIQQoAAICIAyARCACCAAwEACI=</HashCode>
+      <FileName>PlayingState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseState" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAAAAAAAAAAAAIAEAAgAAAAAYAAAAAAAAAGAAA=</HashCode>
+      <FileName>PauseState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuState" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAgIAAAAgAIAAAYABAAAAAAAGAAA=</HashCode>
+      <FileName>MenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverState" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIIAAAACAAAAAAAAAEIgAAAAAABAAAAAAAAIAAAEAAA=</HashCode>
+      <FileName>GameOverState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exit" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Help" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAEAAAAAIAAABAAAAAACAAAAAA=</HashCode>
+      <FileName>Help.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScore" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAIkAAAAAIAAAACAAAAACIAAAIA=</HashCode>
+      <FileName>HighScore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewGame" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossMove" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAEACAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BossMove.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveHorizontal" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAACAAAAAAAAAAAIAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>MoveHorizontal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveStrategy" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAABAAAAAAQACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoveStrategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleMove" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAEAAIAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>SimpleMove.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScoreManager" Collapsed="true">
+    <Position X="25.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAQABAAEAAiAAAAAAAAQAAAAAAAAAAgAAAAIAA=</HashCode>
+      <FileName>HighScoreManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger" Collapsed="true">
+    <Position X="29.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAgAAAIAAAAAAAAAAAAAAAAAAAQAAAAgAAAABAA=</HashCode>
+      <FileName>Logger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileException" Collapsed="true">
+    <Position X="29.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyExceptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sftools::Chronometer" Collapsed="true">
+    <Position X="25.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAAAAFAAABAABAAAAAABAAAAgAAAAAAAAQAAACIAA=</HashCode>
+      <FileName>Chronometer.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="bullet_pkg" Collapsed="true">
+    <Position X="24" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAgAAAAAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>Macros.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="enemy_pkg" Collapsed="true">
+    <Position X="25.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Macros.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="powerUp_pkg" Collapsed="true">
+    <Position X="27.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Macros.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="UnknownCollision" Collapsed="true">
+    <Position X="29.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgEAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollisionHandler.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="options" Collapsed="true">
+    <Position X="27.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAgAAAAAAAAAAAAAAABAAgAAAA=</HashCode>
+      <FileName>MenuState.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ENEMY_CHARS" Collapsed="true">
+    <Position X="24" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Macros.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="POWER_UP_CHARS" Collapsed="true">
+    <Position X="29.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAACAAAAAAQAA=</HashCode>
+      <FileName>Macros.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GENERAL_TEXTURES" Collapsed="true">
+    <Position X="27.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASADBAAQAEIACAAgAgCAACggjgAJABIBAAAAAACAAI=</HashCode>
+      <FileName>Macros.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MUSIC_ID" Collapsed="true">
+    <Position X="25.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAIAAAAAAAAAAAABAAAAAAAAAQAAAgAAoA=</HashCode>
+      <FileName>Resources.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FONT_ID" Collapsed="true">
+    <Position X="25.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resources.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="inGameMenu_ID" Collapsed="true">
+    <Position X="29.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PauseState.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="logo_ID" Collapsed="true">
+    <Position X="24" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAEEAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuState.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

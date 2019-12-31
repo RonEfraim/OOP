@@ -1,0 +1,2 @@
+2019-06-23:11:39:35	Ship and Bullet collision!
+2019-06-23:11:39:43	Ship and Bullet collision!
